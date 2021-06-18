@@ -1,8 +1,8 @@
-# Vue Crypto Dashboard
+# Realtime Cryptocurrency Price Dashboard
 
 A Cryptocurrency Dashboard build with Vue JS, PWA enabled, Binance Websocket API for realtime price, amChart for displaying historical charts, SVG Sparkline Chart and Latest News feed from Cryptocompare site. 
 
-Demo: [https://jayeshlab.github.io/vue-crypto-dashboard/](https://jayeshlab.github.io/vue-crypto-dashboard/)
+Demo: [https://coinprices.tk](https://coinprices.tk)
 
 <img width="500" alt="portfolio_view" src="https://user-images.githubusercontent.com/36194663/47360119-2ec3a600-d6ec-11e8-95a2-0b61d0bf0f11.png">
 
@@ -56,3 +56,4 @@ npm run test:unit
 ## Register for Binance
 [<img src="https://user-images.githubusercontent.com/36194663/121839463-bcb68a00-ccf7-11eb-837a-51f50326f352.jpg" height="530" width="300">](https://www.binance.com/en/register?ref=SML06GD0)
 
+# crypto-prices
